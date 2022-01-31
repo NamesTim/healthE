@@ -1,2 +1,3 @@
 # healthE
-Collection for inputs for a healthy instance of one's life in time.
+Collection for inputs for a healthy instance at a time
+
